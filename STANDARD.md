@@ -36,12 +36,6 @@ pour mieux expliquer sa pertinence.
 Le standard doit s'appliquer à toutes les phases de construction d'une
 startup.
 
-### Favoriser la finalité plutôt que l'outil
-
-Le standard doit favoriser le pourquoi plutôt que le comment :
-« utiliser le Système de Design de l'État (DSFR) » n'est pas une
-finalité, « produire du code accessible » oui.
-
 ### Utiliser un langage simple et concis
 
 Priviliégiez des phrases courtes et simples pour appuyer votre
@@ -59,11 +53,6 @@ qui risquent de perdre le lecteur dans une multitude de ressources
 difficiles à finir. Des études concrètes ou des articles de presse
 sont les bienvenus.
 
-## Ressources
-
-- [Étude d'autres standards par l'équipe
-  Animation](https://pad.numerique.gouv.fr/RMyVz4piTheqvxqNMNGI-A#)
-
 ## Critères
 
 - le standard justifie sa valeur grâce à un mode de rédaction
@@ -73,4 +62,10 @@ sont les bienvenus.
   des ressources concrètes à cet effet
 - le standard est facile à valider : les critères sont binaires et
   simples à vérifier.
-```
+
+## Ressources
+
+- [Étude d'autres standards par l'équipe
+  Animation](https://pad.numerique.gouv.fr/RMyVz4piTheqvxqNMNGI-A#)
+
+
