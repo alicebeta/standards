@@ -4,12 +4,12 @@
 
 Pour garantir la confiance dans votre processus de déploiement et une
 meilleure vélocité pour les correctifs ou nouvelles fonctionnalités,
-votre équipe déploit régulièrement et de manière continue si
+votre équipe déploie régulièrement et de manière continue si
 possible.
 
 Cette approche de déploiement continu (CD) s'oppose à celle où la
 production n'est mise à jour que ponctuellement, ce qui accumule à
-chaque déploiement un delta de changements considérable voir
+chaque déploiement un delta de changements considérable voire
 vertigineux pour l'équipe de développement qui doit assurer ce
 déploiement.
 
