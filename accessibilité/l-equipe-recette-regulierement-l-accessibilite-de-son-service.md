@@ -3,7 +3,7 @@
 ## Description
 
 L'accessibilité (ou l'inaccessibilité) ne se voit pas. Pour s'assurer
-de l'accessibilité d'un service, il faut le *manipuler* son service ;
+de l'accessibilité d'un service, il faut *manipuler* son service ;
 par exemple en naviguant au clavier.
 
 Recetter manuellement permet d'éviter la dette d'accessibilité et de
