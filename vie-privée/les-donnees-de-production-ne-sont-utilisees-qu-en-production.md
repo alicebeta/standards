@@ -9,7 +9,7 @@ production, et que vos jeux de données test n'incluent pas des
 informations qui ressemblent de près ou de loin à vos vraies données.
 
 Dès la conception de votre produit, établissez des jeux de tests
-anonymisées, voir entièrement fabriqués pour garantir que les données
+anonymisées, voire entièrement fabriqués pour garantir que les données
 de vos utilisateurs finaux ne sont jamais à risque.
 
 Il en va de même pour les potentiels adresses de serveur d'API privées
