@@ -3,7 +3,7 @@
 ## Description
 
 Votre produit n'est pas autonome : il dépend et profite de plusieurs
-dizaines voir centaines de librairies qui vous permettent de vous
+dizaines voire centaines de librairies qui vous permettent de vous
 concentrer sur le développement de votre produit plutôt que de
 reconstruire les mêmes briques de la grande pyramide du web.
 
