@@ -8,7 +8,7 @@ respecter les exigences du [référentiel général de sécurité
 produit par l'Agence nationale de la sécurité des systèmes
 d’information (ANSSI).
 
-Ce référentiel impose notamment notamment la conduite d'une
+Ce référentiel impose notamment la conduite d'une
 homologation de sécurité pour permettre d'identifier et de valider
 les risques cyber liés à votre service : elle atteste que les mesures
 de sécurité et les efforts présents et futurs sont suffisants pour
